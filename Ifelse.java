@@ -49,6 +49,11 @@ public class Ifelse {
 		 }else {
 			 System.out.println("c is bigger value");
 		 }
+		 //Ternary operator
+		 //Syntax
+		 //variable = (condition) ? expressionTrue : expressionFalse;
+		 String result = (a > b) ? "a is big value" : "b is big value";
+		 System.out.println(result);
 		}
 	}
 
